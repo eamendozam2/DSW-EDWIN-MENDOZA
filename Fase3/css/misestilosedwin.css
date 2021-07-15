@@ -1,0 +1,13 @@
+*{
+    margin: 3px;
+    border-radius: 3px;
+}
+header{
+    background-color: rgb(236, 233, 240);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+	
